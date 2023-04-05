@@ -14,6 +14,6 @@ gem 'zeus', require: false
 
 # YARD
 gem 'fssm'
-gem 'redcarpet'
+gem 'redcarpet', '>= 3.5.1'
 gem 'rouge'
 gem 'yard'
